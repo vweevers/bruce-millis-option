@@ -1,6 +1,6 @@
 {
   "name": "bruce-millis-option",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert various time formats to milliseconds and throw if result is NaN",
   "license": "MIT",
   "author": "Vincent Weevers",
